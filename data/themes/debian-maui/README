@@ -1,0 +1,5 @@
+This theme is an adaptation of the original Maui theme from upstream SDDM for
+Debian to use the active desktop-base theme.
+
+Check the src/greeter/theme folder from the SDDM source for more information.
+

@@ -1,0 +1,9 @@
+This theme is based on the KDM Elarun theme, ported to SDDM theme.
+It was adapted to use the active Debian theme pack.
+Thanks to these people for their great works.
+Not all functionality from original theme are ported.
+
+Original KDM theme:
+Author=Roman Shtylman & Nuno Pinheiro
+Copyright=GPL 2010 Roman Shtylman | nuno@oxygen-icons.org, 2012 Nuno Pineheiro
+License=GPL
