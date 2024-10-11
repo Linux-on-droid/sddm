@@ -196,7 +196,7 @@ The `UserAuthFile=` option was removed, the file is always created as
 `DefaultPath=`
 	Default path to set after successfully logging in.
 	This is also where SDDM looks for programs.
-	Default value is "/usr/local/bin:/usr/bin:/bin".
+	Default value is "/bin:/usr/bin".
 
 `MinimumUid=`
 	Minimum user id of the users to be listed in the
